@@ -5,6 +5,5 @@ Currently I am working on an android app for the 11+ Verbal Reasoning tester
 
 # My projects
 * Released
-  * http://github.com - automatic!
-    [GitHub](https://github.com/IsaacSkevington/11-Verbal-Reasoning)
+  * [11+ Verbal Reasoning](https://github.com/IsaacSkevington/11-Verbal-Reasoning)
   *
