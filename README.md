@@ -10,5 +10,5 @@ Currently I am working on an android app for the 11+ Verbal Reasoning tester
 
 
 * Working on release
-  * [Google classroom for Teams](https://github.com/IsaacSkevington/GClassForTeams)
+  * [Google Classroom for Teams](https://github.com/IsaacSkevington/GClassForTeams)
   * [WhatsAppnalysis](https://github.com/IsaacSkevington/WhatsAppnalysis)
