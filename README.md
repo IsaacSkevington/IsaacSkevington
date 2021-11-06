@@ -9,5 +9,7 @@ Currently I am working on an android app for the 11+ Verbal Reasoning tester.
   * [WhatsAppnalysis](https://github.com/IsaacSkevington/WhatsAppnalysis)
   * [Evoice survey software](https://github.com/IsaacSkevington/eVoice)
   * [Google Classroom for Teams](https://github.com/IsaacSkevington/GClassForTeams)
+* In development  
+  * [Finance Wizard](https://github.com/IsaacSkevington/FinanceWizard)
 
 
