@@ -12,8 +12,8 @@ Currently I am working on developing a scoring app for bridge games.
   * [Google Classroom for Teams](https://github.com/IsaacSkevington/GClassForTeams)
 
 * In development  
+  * [iScoreBridge](https://github.com/IsaacSkevington/iScoreBridge)
   * [Finance Wizard](https://github.com/IsaacSkevington/FinanceWizard) (Currently private)
-  * [iScoreBridge](https://github.com/IsaacSkevington/iScoreBridge) (Currently private)
   
 
 
